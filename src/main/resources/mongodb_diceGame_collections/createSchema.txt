@@ -1,0 +1,11 @@
+crear una conexion localhost en compass
+
+mongodb://localhost:27017  
+
+/ o por consola 
+
+use diceGame
+
+db.createCollection ("player")
+
+db.createCollection ("game")

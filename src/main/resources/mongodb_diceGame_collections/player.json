@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6023e361b261e671b4d83936"
+  },
+  "name_player": "NICOLAS TESLA",
+  "date_register_player": {
+    "$date": "2021-02-10T13:45:05.949Z"
+  },
+  "success_rate_player": 33.33333333333333,
+  "_class": "com.mideros.diceGameMongo.dto.Player"
+},{
+  "_id": {
+    "$oid": "6023f66fb261e671b4d8396a"
+  },
+  "name_player": "ALBERT EINSTEIN",
+  "date_register_player": {
+    "$date": "2021-02-10T15:06:23.775Z"
+  },
+  "success_rate_player": 50,
+  "_class": "com.mideros.diceGameMongo.dto.Player"
+},{
+  "_id": {
+    "$oid": "6023f690b261e671b4d8396b"
+  },
+  "name_player": "ISSAC NEWTON",
+  "date_register_player": {
+    "$date": "2021-02-10T15:06:56.901Z"
+  },
+  "success_rate_player": 20,
+  "_class": "com.mideros.diceGameMongo.dto.Player"
+},{
+  "_id": {
+    "$oid": "6023f69eb261e671b4d8396c"
+  },
+  "name_player": "STEPHEN HAWKING",
+  "date_register_player": {
+    "$date": "2021-02-10T15:07:10.661Z"
+  },
+  "success_rate_player": 50,
+  "_class": "com.mideros.diceGameMongo.dto.Player"
+},{
+  "_id": {
+    "$oid": "6023f6abb261e671b4d8396d"
+  },
+  "name_player": "MARIE CURIE",
+  "date_register_player": {
+    "$date": "2021-02-10T15:07:23.394Z"
+  },
+  "success_rate_player": 50,
+  "_class": "com.mideros.diceGameMongo.dto.Player"
+},{
+  "_id": {
+    "$oid": "6023f6b9b261e671b4d8396e"
+  },
+  "name_player": "ANONYMOUS",
+  "date_register_player": {
+    "$date": "2021-02-10T15:07:37.322Z"
+  },
+  "success_rate_player": 100,
+  "_class": "com.mideros.diceGameMongo.dto.Player"
+}]

@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "6023e392b261e671b4d83937"
+  },
+  "dice_one": 4,
+  "dice_two": 3,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023e361b261e671b4d83936"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023e396b261e671b4d83938"
+  },
+  "dice_one": 2,
+  "dice_two": 6,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023e361b261e671b4d83936"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023e397b261e671b4d83939"
+  },
+  "dice_one": 2,
+  "dice_two": 1,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023e361b261e671b4d83936"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f788b261e671b4d8396f"
+  },
+  "dice_one": 6,
+  "dice_two": 3,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023e361b261e671b4d83936"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f7b9b261e671b4d83970"
+  },
+  "dice_one": 3,
+  "dice_two": 4,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023e361b261e671b4d83936"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f7d6b261e671b4d83971"
+  },
+  "dice_one": 1,
+  "dice_two": 2,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023e361b261e671b4d83936"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f7f1b261e671b4d83972"
+  },
+  "dice_one": 5,
+  "dice_two": 3,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f66fb261e671b4d8396a"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f7f4b261e671b4d83973"
+  },
+  "dice_one": 1,
+  "dice_two": 6,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f66fb261e671b4d8396a"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f813b261e671b4d83974"
+  },
+  "dice_one": 5,
+  "dice_two": 3,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f690b261e671b4d8396b"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f815b261e671b4d83975"
+  },
+  "dice_one": 2,
+  "dice_two": 4,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f690b261e671b4d8396b"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f816b261e671b4d83976"
+  },
+  "dice_one": 3,
+  "dice_two": 3,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f690b261e671b4d8396b"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f818b261e671b4d83977"
+  },
+  "dice_one": 3,
+  "dice_two": 2,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f690b261e671b4d8396b"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f81ab261e671b4d83978"
+  },
+  "dice_one": 3,
+  "dice_two": 4,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f690b261e671b4d8396b"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f84eb261e671b4d83979"
+  },
+  "dice_one": 6,
+  "dice_two": 5,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f69eb261e671b4d8396c"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f853b261e671b4d8397a"
+  },
+  "dice_one": 6,
+  "dice_two": 1,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f69eb261e671b4d8396c"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f865b261e671b4d8397b"
+  },
+  "dice_one": 6,
+  "dice_two": 1,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f6abb261e671b4d8396d"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f867b261e671b4d8397c"
+  },
+  "dice_one": 3,
+  "dice_two": 1,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f6abb261e671b4d8396d"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f868b261e671b4d8397d"
+  },
+  "dice_one": 5,
+  "dice_two": 2,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f6abb261e671b4d8396d"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f86ab261e671b4d8397e"
+  },
+  "dice_one": 3,
+  "dice_two": 1,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f6abb261e671b4d8396d"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f86bb261e671b4d8397f"
+  },
+  "dice_one": 4,
+  "dice_two": 3,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f6abb261e671b4d8396d"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f8ceb261e671b4d83983"
+  },
+  "dice_one": 5,
+  "dice_two": 1,
+  "win_game": false,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f6abb261e671b4d8396d"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+},{
+  "_id": {
+    "$oid": "6023f902b261e671b4d83984"
+  },
+  "dice_one": 6,
+  "dice_two": 1,
+  "win_game": true,
+  "player": {
+    "$ref": "player",
+    "$id": {
+      "$oid": "6023f6b9b261e671b4d8396e"
+    }
+  },
+  "_class": "com.mideros.diceGameMongo.dto.Game"
+}]
